@@ -1,16 +1,16 @@
-## Some helpful websites for development:
-### For design:
-- **For placeholders:**
+## Some Helpful Websites For Development:
+### For Design:
+- **For Placeholders:**
   - [Placehold](https://placehold.co/): Blank placeholder images.
   - [Pravatar](https://www.pravatar.cc/): People placeholder images..
-- **For free high quality images:**
+- **For Free High Quality Images:**
   - [500px](https://500px.com/)
   - [Pixels](https://www.pexels.com/)
   - [Pixabay](https://pixabay.com/)
   - [Freepik](https://www.freepik.com/)
   - [Gallerypng](https://gallerypng.com/): PNG images without background.
 
-- **For different types of icons:**
+- **For Different Types Of Icons:**
   - [Fontawesome](https://fontawesome.com/): for text icons.
   - [Lordicon](https://lordicon.com/): for animated icons.
   - [Flaticon](https://www.flaticon.com/): for animated & static icons, stickers or gifs.
@@ -20,19 +20,19 @@
   - [Blobmaker](https://www.blobmaker.app/): for Generating custom SVG shapes.
   - [Getwaves](https://getwaves.io/): for creating SVG waves in your website.
 
-- **For ready elements, website parts, insights and ideas:**
-  - **For all parts:**
+- **For Ready Elements, Website Parts, Insights & Ideas:**
+  - **For All Parts:**
     - [Codepen](https://codepen.io/)
     - [Uiverse](https://uiverse.io/)
     - [V0dev](https://v0.dev/)
 
-  - **For buttons**:
+  - **For Buttons**:
     - [Buttonsgenerator](https://markodenic.com/tools/buttons-generator/): for cool ready buttons.
     - [Neumorphism](https://neumorphism.io/): for a fancy faded in buttons.
     - [Buttonscool](https://www.buttons.cool/): for many cool designed buttons.
     - [Fancyborderradius]( https://9elements.github.io/fancy-border-radius/): for a fancy border for a button.
 
-  - **For logos:**
+  - **For Logos:**
     - [Logopond](https://logopond.com/): for a creative logo images.
     - [Logo](https://logo.com/): for creating a custom logo for your website or brand.
   
@@ -65,8 +65,8 @@
 
 <hr>
 
-### For others:
-- **For free website hosting:**
+### For Others:
+- **For Free Website Hosting:**
   - [Render](https://render.com/)
   - [Netlify](https://www.netlify.com/)
 
