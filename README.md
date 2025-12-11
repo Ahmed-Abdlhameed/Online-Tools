@@ -55,6 +55,7 @@
   - [OMDB](http://www.omdbapi.com/): For movies & series API.
   - [Open-meteo](https://open-meteo.com/): For a weather API.
   - [Dummyjson](https://dummyjson.com/): For a wide range of APIs.
+  - [Currencyfreaks](https://currencyfreaks.com/): For currency API.
   - [Fakestoreapi](https://fakestoreapi.com/): For an e-commerce fake API.
   - [Jsonplaceholder](https://jsonplaceholder.typicode.com/): For a social media fake API.
   - [Reqres](https://reqres.in/): For different user authorization situations API.
